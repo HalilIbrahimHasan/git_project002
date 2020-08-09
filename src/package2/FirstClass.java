@@ -23,6 +23,7 @@ public class FirstClass {
 		System.out.println("first commit from settar branch");
 		
 		System.out.println("The second commit from local settar");
+		System.out.println("the third commit from local settar");
 
 	}
 }
