@@ -21,6 +21,8 @@ public class FirstClass {
 		System.out.println("Second");
 
 		System.out.println("first commit from settar branch");
+		
+		System.out.println("The second commit from local settar");
 
 	}
 }
