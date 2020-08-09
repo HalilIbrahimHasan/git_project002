@@ -20,7 +20,7 @@ public class FirstClass {
 
 		System.out.println("Second");
 
-		
+		System.out.println("first commit from settar branch");
 
 	}
 }
